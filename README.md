@@ -53,3 +53,7 @@ After this you can run the project locally:
 - [Expressjs](https://expressjs.com)
 - [Mongoose](https://mongoosejs.com)
 - [Material UI](https://mui.com/)
+
+  # User Interface
+  <img src="https://github.com/omjadhav2121/FxGarage/blob/master/Screenshot%20(91).png" alt="FxGarage">
+
